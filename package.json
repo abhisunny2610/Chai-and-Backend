@@ -1,0 +1,19 @@
+{
+  "name": "chai-or-backend",
+  "version": "1.0.0",
+  "description": "Chai and backend with hitesh chaudhary in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chai",
+    "Backend",
+    "Javascript",
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "author": "Abhishek Chaudhary",
+  "license": "ISC"
+}
