@@ -11,10 +11,10 @@ app.use(cors({
 }))
 
 // for get the json data
-app.use(express.json({limit: "25kb"}))
+app.use(express.json({ limit: "25kb" }))
 
 // for getting the url data
-app.use(express.urlencoded({extended: true, limit: "25kb"}))
+app.use(express.urlencoded({ extended: true, limit: "25kb" }))
 
 // for uploading or serving the statics files
 app.use(express.static("public"))
